@@ -87,4 +87,12 @@ Solution :
     pip install ipympl
 
 
+Numpy
+-----
+
+https://numpy.org/doc/stable/reference/routines.html
+
+- linspace : Return evenly spaced numbers over a specified interval (https://numpy.org/doc/stable/reference/generated/numpy.linspace.html)
+- arange : Return evenly spaced values within a given interval (https://numpy.org/doc/stable/reference/generated/numpy.arange.html#numpy.arange)
+
 

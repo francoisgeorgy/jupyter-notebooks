@@ -36,3 +36,17 @@ Books
     - https://github.com/elegant-scipy/notebooks
 - Digital Modulations using Python
   - https://www.gaussianwaves.com/digital-modulations-using-python/
+
+Misc resource
+-------------
+
+- http://www.ivan123.tech/?p=255
+- https://www.oreilly.com/library/view/elegant-scipy/9781491922927/ch04.html
+- https://www.gaussianwaves.com/2020/01/how-to-plot-fft-in-python-fft-of-basic-signals-sine-and-cosine-waves/
+- https://neuro.inf.unibe.ch/AlgorithmsNeuroscience/Tutorial_files/Temporal_vs_Spectral.html
+- https://wirelesspi.com/dft-examples/
+- https://scikit-dsp-comm.readthedocs.io/en/latest/nb_examples/Continuous-Time%20Signals%20and%20Systems%20using%20sigsys.html#Fourier-Series-and-Line-Spectra-Plotting
+- https://stackoverflow.com/questions/25735153/plotting-a-fast-fourier-transform-in-python
+- https://stackoverflow.com/questions/58282669/how-to-plot-graph-with-logarithmic-y-axis
+- https://notebook.community/mholtrop/Phys605/Python/FFT/FFT+example1
+- https://cmps-people.ok.ubc.ca/jbobowsk/Python/html/Jupyter%20FFT.html

@@ -96,3 +96,8 @@ https://numpy.org/doc/stable/reference/routines.html
 - arange : Return evenly spaced values within a given interval (https://numpy.org/doc/stable/reference/generated/numpy.arange.html#numpy.arange)
 
 
+Latex and mathematical notation
+-------------------------------
+
+- https://medium.com/analytics-vidhya/writing-math-equations-in-jupyter-notebook-a-naive-introduction-a5ce87b9a214
+- https://texblog.org/2012/08/29/changing-the-font-size-in-latex/

@@ -28,6 +28,7 @@ Examples
 - [Understanding Audio data, Fourier Transform, FFT and Spectrogram features for a Speech Recognition System](http://www.ivan123.tech/?p=255)
 - [Plot FFT using Python](https://www.gaussianwaves.com/2020/01/how-to-plot-fft-in-python-fft-of-basic-signals-sine-and-cosine-waves/)
 
+
 Books
 -----
 
@@ -36,6 +37,14 @@ Books
     - https://github.com/elegant-scipy/notebooks
 - Digital Modulations using Python
   - https://www.gaussianwaves.com/digital-modulations-using-python/
+
+
+FFT window
+----------
+
+- https://notebook.community/pxcandeias/py-notebooks/scipy_signal_windows_demonstration
+- https://flothesof.github.io/FFT-window-properties-frequency-analysis.html
+
 
 Misc resource
 -------------
